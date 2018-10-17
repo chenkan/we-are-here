@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pic {
+  width: 480px;
+}
+
+.list {
+  padding-left: 20px;
+}
